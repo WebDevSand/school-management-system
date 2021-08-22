@@ -5,21 +5,6 @@
 [![php](https://img.shields.io/badge/php-7.2-brightgreen.svg?logo=php)](https://www.php.net)
 [![laravel](https://img.shields.io/badge/laravel-6.x-orange.svg?logo=laravel)](https://laravel.com)
 
-
-```
-                       _____  _                    _   _____        _                    _ 
-                      / ____|| |                  | | / ____|      | |                  | |
-                     | |     | |  ___   _   _   __| || (___    ___ | |__    ___    ___  | |
-                     | |     | | / _ \ | | | | / _` | \___ \  / __|| '_ \  / _ \  / _ \ | |
-                     | |____ | || (_) || |_| || (_| | ____) || (__ | | | || (_) || (_) || |
-                      \_____||_| \___/  \__,_| \__,_||_____/  \___||_| |_| \___/  \___/ |_|       
-```                                                                                                                               
-
-Another School Management System build with Laravel and PHP 7
-
-
-## :loudspeaker: **For Enterprise Edition(EE) checkout [here](https://github.com/hrshadhin/school-management-system/tree/empty)**
-
 ## Index
 
 - [Have a Query?](#have-a-query)
@@ -137,7 +122,6 @@ Another School Management System build with Laravel and PHP 7
 - Ctype PHP Extension
 - JSON PHP Extension
 - MySQL >= 5.6 `OR` MariaDB >= 10.1
-- [hrshadhin/laravel-userstamps](https://github.com/hrshadhin/laravel-userstamps.git) [**Already Installed**]
 - NodeJS, npm, webpack
 
 #### Download and setup
@@ -245,19 +229,6 @@ Don't be shy to make some PR's here :smile:
 #### Contributers
 
 A big shout out to all the contributers, more specifically to these guys
-
-- [H.R. Shadhin](https://github.com/hrshadhin)
-- [Ashutosh Das](https://github.com/pyprism)
-- [order4adwriter](https://github.com/order4adwriter)
-- [Zahid Irfan](https://github.com/zahidirfan)
-- [Oshane Bailey](https://github.com/b4oshany)
-
-## Issues
-[:arrow_up: Back to top](#index)
-
-- If you faced any problems, first check previous issue list. If doesn't exists then create a new one.
-- You can report the bugs at the [issue tracker](https://github.com/hrshadhin/school-management-system/issues)
-- If you discover a security vulnerability within CloudSchool app, please send an e-mail to [sos@cloudschoolbd.com](mailto:sos@cloudschoolbd.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 [:arrow_up: Back to top](#index)
