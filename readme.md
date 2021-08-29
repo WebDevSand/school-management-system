@@ -5,7 +5,7 @@
 [![php](https://img.shields.io/badge/php-7.2-brightgreen.svg?logo=php)](https://www.php.net)
 [![laravel](https://img.shields.io/badge/laravel-6.x-orange.svg?logo=laravel)](https://laravel.com)
 
-## Index
+## Index  
 
 - [Have a Query?](#have-a-query)
 - [Demo](#demo)
