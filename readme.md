@@ -1,6 +1,6 @@
 
 ## Index  
-
+  
 - [Have a Query?](#have-a-query)
 - [Demo](#demo)
     - [Community Edition (CE)](#community-edition)
