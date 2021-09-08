@@ -5,7 +5,7 @@
 - [Demo](#demo)
     - [Community Edition (CE)](#community-edition)
     - [Enterprise Edition (EE)](#enterprise-edition)
-- [Features](#features)
+- [Features](#features) 
 - [Installation](#installation)
     - [Installing dependencies](#installing-dependencies)
     - [Download and setup](#download-and-setup)
