@@ -11,7 +11,7 @@
     - [Download and setup](#download-and-setup)
     - [Use the app](#use-the-app)
 - [Documentation](#documentation)
-- [Changelog/Timeline](#timeline)
+- [Changelog/Timeline](#timeline) 
 - [Screenshot](#screenshot)
 - [Contributing](#contributing)
   - [To-do](#to-do)
